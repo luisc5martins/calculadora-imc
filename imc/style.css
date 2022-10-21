@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(0, 0, 0);
+}
+
+h1 {
+    color: rgb(255, 255, 255);
+}
+
+#name {
+    color: rgb(255, 255, 255);
+}
+
+#height {
+    color: rgb(255, 255, 255);
+}
+
+#weight {
+    color: rgb(255, 255, 255);
+}
+
+.inputName {
+    color: rgb(0, 0, 0);
+}
+
+.inputHeight {
+    color: rgb(0, 0, 0);
+}
+
+.inputWeight {
+    color: rgb(0, 0, 0);
+}
+
+#resultadoIMC {
+    color: rgb(255, 255, 255);
+}
