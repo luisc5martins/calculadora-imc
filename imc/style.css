@@ -33,3 +33,15 @@ h1 {
 #resultadoIMC {
     color: rgb(255, 255, 255);
 }
+
+#categoria {
+    color: rgb(255, 255, 255);
+}
+
+.container {
+    background-color: rgb(255, 0, 0);
+}
+
+body {
+    text-align: center;
+}
